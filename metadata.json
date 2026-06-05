@@ -1,0 +1,6 @@
+{
+  "name": "Personal Portfolio & Assignment Hub",
+  "description": "Yousuf Ali's professional personal portfolio website and academic assignment submission companion",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
